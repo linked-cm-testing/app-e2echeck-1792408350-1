@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run e2echeck-1792408350-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
